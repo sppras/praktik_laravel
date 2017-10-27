@@ -83,8 +83,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="pesan">Pesan</a>
-					<a href="about">About</a>
+                    Project Laravel Pertamaku.
+					</br>
+					<a href="/">Home</a>
                 </div>
             </div>
         </div>
